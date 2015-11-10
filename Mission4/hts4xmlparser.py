@@ -1,6 +1,6 @@
 # XML Parsing for HTS Mission 4
 # https://www.hackthissite.org/missions/prog/4/XML
-# Author: VectorStrain
+# Author: Tyler Sherbeyn
 # Date: 10/17/2015
 
 import mechanize, os, cookielib, urllib, sys, re, bz2, Image, ImageDraw
