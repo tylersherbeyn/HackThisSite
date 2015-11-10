@@ -3,7 +3,7 @@
 #This string was randomly generated.
 #It will not be recognizable text.
 #You have 3 seconds to take the information from the website, and apply that to your algorithm. 
-# Author: VectorStrain
+# Author: Tyler Sherbeyn
 # Date: 10/17/2015
 
 
@@ -36,8 +36,8 @@ br.addheaders = [('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
 br.open("https://www.hackthissite.org/missions/prog/3/")
 br.select_form(nr=0)
-br.form['username'] = 'VectorStrain'
-br.form['password'] = 'unf0Rgetfulcircumstances'
+br.form['username'] = '********'
+br.form['password'] = '********'
 br.submit()
 
 text = BeautifulSoup(br.response().read()).get_text()
