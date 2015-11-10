@@ -1,6 +1,6 @@
 # Image Analyzer for HTS Mission 2
 # https://www.hackthissite.org/missions/prog/2/PNG/
-# Author: VectorStrain
+# Author: Tyler Sherbeyn
 # Date: 2/25/2015
 
 import mechanize, os, cookielib, urllib, sys, re
