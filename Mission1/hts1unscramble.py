@@ -1,6 +1,6 @@
 # Unscrambler for HTS Mission 1
 # https://www.hackthissite.org/missions/prog/1/
-# Author: VectorStrain
+# Author: Tyler Sherbeyn
 # Date: 8/10/2015
 
 import re, sys, mechanize, cookielib, urllib
