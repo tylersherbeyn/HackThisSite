@@ -1,6 +1,6 @@
 # String Manipulation HTS Mission 12
 # https://www.hackthissite.org/missions/prog/12/
-# Author: VectorStrain
+# Author: Tyler Sherbeyn
 # Date: 8/2/2015
 
 #This level is about string manipulation.
