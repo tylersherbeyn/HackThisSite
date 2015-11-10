@@ -1,6 +1,6 @@
 # ASCII SHIFT HTS Mission 11
 # https://www.hackthissite.org/missions/prog/11/
-# Author: VectorStrain
+# Author: Tyler Sherbeyn
 # Date: 8/14/2015
 
 #This string was randomly generated.
