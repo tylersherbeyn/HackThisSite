@@ -39,7 +39,7 @@ br.submit()
 
 text = BeautifulSoup(br.response().read()).get_text()   
 
-string =text[text.find("Generated String: ")+18:text.find("Shift:")]
+string = text[text.find("Generated String: ")+18:text.find("Shift:")]
 string = re.sub('\W',' ',string)
 characters = string.split()
 
